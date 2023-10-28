@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Groceries",
+    "nominal": 50.0,
+    "category": "Food"
+  },
+  {
+    "id": 2,
+    "name": "Gasoline",
+    "nominal": 30.0,
+    "category": "Transportation"
+  },
+  {
+    "id": 3,
+    "name": "Dinner with friends",
+    "nominal": 80.0,
+    "category": "Entertainment"
+  },
+  {
+    "id": 4,
+    "name": "Internet bill",
+    "nominal": 45.0,
+    "category": "Utilities"
+  },
+  {
+    "id": 5,
+    "name": "Books",
+    "nominal": 25.0,
+    "category": "Education"
+  }
+]
